@@ -8,7 +8,7 @@ a{
     text-decoration:none;
 }
 .wrapper{
-    display:flex;
+    display: flex;
     width: 80%;
     margin: 0 auto;
     justify-content:space-between
@@ -24,12 +24,12 @@ align-items:center;
 }
 .main-nav a{
     color: white;
-    margin-right:5px;
-    padding:5px;
+    margin-right: 5px;
+    padding: 8px;
 }
  .main-nav a:last-child {
         margin-right: 0;
     }
 .main-nav i{
     color:aqua;
-    margin-right: 5px;
+    margin-right: 3px;
